@@ -1,4 +1,4 @@
-Docker Spring Boot
+Docker Spring Boot J2EE Container
 
 Sample project to prepare a Spring Boot application for traditional .war deployment inside a docker container.
 
